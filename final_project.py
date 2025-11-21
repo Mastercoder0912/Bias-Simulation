@@ -2,9 +2,6 @@ import tkinter as tk
 import random
 import math
 
-#copilot AI was used in the creation of this project helping to guide me into using tkinter, seeded randomness, tension model class, and one-lined if statements.
-#it was only used to give me examples of how to use those tools but the rest of the code was written entirely by me.
-
 class TensionModel:
     def __init__(self, seed=12345, alpha=0.85, gamma_seed=0.3, sigma_noise=0.2,
                  beta_c=0.5, beta_d=0.4, beta_a=0.1):
