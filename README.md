@@ -1,5 +1,4 @@
 # Bias simulation
-### Video Demo:  https://drive.google.com/file/d/10ZE_8IQaaxUna5hRZoCYcCxoE5kDzixQ/view?usp=sharing
 ### Description:
 This project is a biased simulation designed to demonstrate how drastically bias can affect different kinds of people and their perspectives. It is important to emphasize from the beginning that this is only a simulation and not a reflection of real life. Because of that, the results produced here will inevitably differ from what we might observe in actual human societies. Still, I have attempted to make the simulation as realistic as possible by relying on a well-known mathematical and computational framework: the “Small World” model. This model is often used to represent groups of people and their connections, and it provides a useful way to explore how information, opinions, and biases spread through a network.
 
